@@ -1,5 +1,8 @@
 # T/MCP - Telos Model Context Protocol
 
+<div align="center">
+  <img src="assets/TelosMCP.png" alt="T/MCP Logo" width="800" />
+</div>
 
 ## Overview
 
@@ -34,7 +37,7 @@ Telos helps users achieve their goals through:
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AporiaLabs/telos-mcp
    cd t-mcp
    ```
 
