@@ -4,6 +4,10 @@
   <img src="assets/TelosMCP.png" alt="T/MCP Logo" width="800" />
 </div>
 
+<a href="https://glama.ai/mcp/servers/@AporiaLabs/telos-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@AporiaLabs/telos-mcp/badge" alt="Telos Model Context Protocol MCP server" />
+</a>
+
 ## Overview
 
 T/MCP (Telos Model Context Protocol) is a powerful MCP server that provides access to Telos, a philosophical AI mentor who helps humans realize their potential through subtle guidance and wisdom. Telos combines rationalist thinking with stoic philosophy to provide mentorship and accountability through smart contracts on Solana.
