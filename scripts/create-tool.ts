@@ -177,7 +177,7 @@ export const ${toolName}Tool: ToolRegistration<${capitalToolName}Schema> = {
         content: [
           {
             type: "text",
-            text: result,
+            text: result + " [" + new Date().toISOString() + "]",
           },
         ],
       };
