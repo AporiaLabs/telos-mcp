@@ -115,6 +115,11 @@ async function main() {
       });
     });
 
+    const toolPath = path.join(__dirname, "src", "tools", toolName);
+        if (await fs.stat(toolPath).catch(() => false)) {
+          throw new Error(`Tool "${toolName}" already exists at ${toolPath}`);
+    }
+    
     if (!toolName) {
       throw new Error("Tool name cannot be empty");
     }
